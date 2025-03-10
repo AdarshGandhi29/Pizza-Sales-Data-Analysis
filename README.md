@@ -24,4 +24,4 @@ This project analyzes pizza sales data using SQL queries to extract meaningful i
 3️⃣ Use the data to optimize inventory and sales strategy.  
 
 ## 📢 Conclusion  
-This project helps in understanding pizza sales trends, optimizing pricing, and improving customer satisfaction based on data-driven insights.  
+This project helps in understanding pizza sales trends.
